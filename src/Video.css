@@ -1,0 +1,15 @@
+.video {
+  position: relative;
+  background-color: transparent;
+  width: 100%;
+  height: 100%;
+  scroll-snap-align: start;
+  /* z-index: 101; */
+}
+
+.video__player {
+  object-fit: fill;
+  width: 100%;
+  height: 100%;
+  /* z-index: 100; */
+}
