@@ -1,3 +1,7 @@
+This is the front end source code for the TikTok clone using React.js, Material UI, CSS Flexbox, 3rd party 'react-ticker' NPM library and scroll snap functionality for User Experience. This front end for the project is hosted on Firebase.
+
+The app is hosted at https://tiktok-clone-1b26b.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
